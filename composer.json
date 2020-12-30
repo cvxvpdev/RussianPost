@@ -1,5 +1,5 @@
 {
-  "name": "lapaygroup/russianpost",
+  "name": "cvxvp/rpost",
   "description": "SDK для работы с API Почты России (pochta.ru)",
   "minimum-stability": "stable",
   "license": "MIT",
